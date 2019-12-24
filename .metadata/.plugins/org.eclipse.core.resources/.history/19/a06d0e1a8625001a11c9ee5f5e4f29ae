@@ -1,0 +1,13 @@
+package com.bridgelabzs.statedesignpattern;
+
+public class StatePatternTest {
+
+	public static void main(String[] args) {
+		SeasonContext seasonContext = new SeasonContext();
+		SeasonContext.nextSeason();
+		SeasonContext.nextSeason();
+		SeasonContext.nextSeason();
+
+	}
+
+}

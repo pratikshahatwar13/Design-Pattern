@@ -1,0 +1,11 @@
+package com.bridgelabzs.statedesignpattern;
+
+public class Winter implements Season {
+
+	@Override
+	public void nextSeason(SeasonContext seasonContext) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

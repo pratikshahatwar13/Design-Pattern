@@ -1,0 +1,10 @@
+package com.bridgelabzs.statedesignpattern;
+
+public class StatePatternTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

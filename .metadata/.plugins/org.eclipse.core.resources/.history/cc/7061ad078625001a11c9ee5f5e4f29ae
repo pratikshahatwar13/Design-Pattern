@@ -1,0 +1,5 @@
+package com.bridgelabzs.statedesignpattern;
+
+public interface Season {
+
+}
